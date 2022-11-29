@@ -1,0 +1,12 @@
+﻿{
+  "port": 5001,
+  "database": {
+    "user": "postgres",
+    "host": "localhost",
+    "database": "dbmedia",
+    "password": "iJ#Q@LKpkawf-)$1l25,m12l5kkm<TNN@IY)*DGjnlQ#BN",
+    "port": "5432"
+  },
+  "central_server_ip": "localhost:5000",
+  "file_delimiter_path":  "\\"
+}
